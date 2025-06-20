@@ -1,0 +1,19 @@
+Claude-flow value proposition -  https://docs.google.com/document/d/1-wowo7ZmA2NAKyhWN8PC_F7C7E6wJfUMDeMd6xjAoNU/edit?usp=sharing
+Muti-agent use cases:  https://docs.google.com/document/d/1Yo8HM1-BWgcFqB8jQ9gGwkVO5Rm9UnE_cl5hy2Jsgfw/edit?usp=sharing
+Claude-flow problems with enterprise readiness: https://docs.google.com/document/d/1nGkSPh0rtEWESxDHXovOy1yiCje5SJ1wvWrUwhPJFxQ/edit?usp=sharing
+Agentic orchestration definitions and rise: https://docs.google.com/document/d/1Fx-37mSVZnMNRcTUBKplsjTY-xJjrOIUyyT5mor4pBk/edit?usp=sharing
+
+
+Jira, openhands integration: https://docs.google.com/document/d/1Af5p34Kv8FEMTjxmVRL-rrp7iWslg7DdisZ42IhON3A/edit?usp=sharing  
+
+Claude-flow: https://github.com/ruvnet/claude-code-flow
+
+openhands docs :https://docs.all-hands.dev/
+
+
+AutoGen2: Framework for building agents
+AG2: https://github.com/ag2ai/ag2
+AG2 Studio: https://github.com/ag2ai/ag2studio
+AG2 Fastagency: https://github.com/ag2ai/fastagency
+
+
