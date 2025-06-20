@@ -1,6 +1,6 @@
 
 
-# **A Technical Analysis of Claude-Flow: The Agentic Orchestration Platform**
+# **Technical Analysis of Claude-Flow with example project**
 
 ## **Executive Summary & High-Level Overview**
 
